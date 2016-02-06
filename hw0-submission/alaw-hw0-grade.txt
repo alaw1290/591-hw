@@ -1,0 +1,8 @@
+Q1: make folder       1/1
+Q2: markdown cell     0/1 (not a markdown cell)
+Q3: execute code cell 1/1
+Q4: suffix_3          2/2
+Q5: import            2/2
+Q6: matrix            3/3 (in the future, please make sure your code is correct for the test cases we give you)
+
+Total:                9/10
