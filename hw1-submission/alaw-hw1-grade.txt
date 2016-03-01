@@ -1,0 +1,11 @@
+Q1: JSON object             5/5 (don't hardcode 100)
+Q2: 1/1/2015 creation_dates 5/5
+Q3: question_dataframe.csv  10/10
+Q4: Users distance matrix   30/30
+Q5: Users plt               5/10 (random users are picked)
+Q6: Timeseries              0/30
+Q7: Timeseries plt          0/10
+
+Total:                      55/100
+
+commit 18c4408438ac3d7f8a2b5d01f27cc694a2903408
